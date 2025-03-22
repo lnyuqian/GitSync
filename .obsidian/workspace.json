@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "app/release/baselineProfiles/同步设置/Obsidian Git同步设置.md",
+                "file": "LICENSE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian Git同步设置"
+              "title": "LICENSE"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "app/release/baselineProfiles/同步设置/Obsidian Git同步设置.md",
+                "file": "LICENSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Obsidian Git同步设置 的反向链接列表"
+              "title": "LICENSE 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "app/release/baselineProfiles/同步设置/Obsidian Git同步设置.md",
+                "file": "LICENSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Obsidian Git同步设置 的出链列表"
+              "title": "LICENSE 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "app/release/baselineProfiles/同步设置/Obsidian Git同步设置.md",
+                "file": "LICENSE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Obsidian Git同步设置 的大纲"
+              "title": "LICENSE 的大纲"
             }
           }
         ]
@@ -171,10 +171,22 @@
   },
   "active": "6899a3be17d0847d",
   "lastOpenFiles": [
-    "app/release/baselineProfiles/同步设置/Big bellies, exaggerated breasts, exaggerated hips, headless, (head down, overexposed, from the waist down, reflection of water waves, shadow of leaves, reflection of water waves, shadow of leaves,.md",
-    "app/release/baselineProfiles/同步设置/Obsidian Git同步设置.md",
-    "app/release/baselineProfiles/泳装提示词 1/Big bellies, exaggerated breasts, exaggerated hips, headless, (head down, overexposed, from the waist down, reflection of water waves, shadow of leaves, reflection of water waves, shadow of leaves,.md",
-    "app/release/baselineProfiles/泳装提示词 1/app-release.dm",
-    "app/release/baselineProfiles/泳装提示词 1"
+    "笔记文件/泳装提示词 1/Big bellies, exaggerated breasts, exaggerated hips, headless, (head down, overexposed, from the waist down, reflection of water waves, shadow of leaves, reflection of water waves, shadow of leaves,.md",
+    "笔记文件/泳装提示词 1/app-release.dm",
+    "笔记文件/泳装提示词 1",
+    "笔记文件/同步设置/Obsidian Git同步设置.md",
+    "笔记文件/同步设置/Big bellies, exaggerated breasts, exaggerated hips, headless, (head down, overexposed, from the waist down, reflection of water waves, shadow of leaves, reflection of water waves, shadow of leaves,.md",
+    "笔记文件/同步设置/app-release.dm",
+    "笔记文件/同步设置",
+    "笔记文件",
+    "README.md",
+    "privacy-policy.md",
+    "LICENSE.md",
+    "Documentation.md",
+    "同步设置/Big bellies, exaggerated breasts, exaggerated hips, headless, (head down, overexposed, from the waist down, reflection of water waves, shadow of leaves, reflection of water waves, shadow of leaves,.md",
+    "同步设置/Obsidian Git同步设置.md",
+    "泳装提示词 1/Big bellies, exaggerated breasts, exaggerated hips, headless, (head down, overexposed, from the waist down, reflection of water waves, shadow of leaves, reflection of water waves, shadow of leaves,.md",
+    "泳装提示词 1/app-release.dm",
+    "泳装提示词 1"
   ]
 }
