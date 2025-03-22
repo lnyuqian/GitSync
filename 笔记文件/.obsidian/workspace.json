@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "a2eac1804da082d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e8f15584f86fb50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50eda259043ff4cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "同步设置/Obsidian Git同步设置.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian Git同步设置"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3394cc9a143b6615",
+    "type": "split",
+    "children": [
+      {
+        "id": "70a00e474db9204f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d4cc00e837a9f75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "52692ee9af9ea76e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "09d494da8ff79617",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61200692451b55e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0a6cad320cda963",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a4b2e48bb1a47b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "同步设置/Obsidian Git同步设置.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Obsidian Git同步设置 的反向链接列表"
+            }
+          },
+          {
+            "id": "fa5ecca5edc00cc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "同步设置/Obsidian Git同步设置.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Obsidian Git同步设置 的出链列表"
+            }
+          },
+          {
+            "id": "f8d4f0f24cd4eb73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3192faea1907f9cc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "同步设置/Obsidian Git同步设置.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Obsidian Git同步设置 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "50eda259043ff4cb",
+  "lastOpenFiles": [
+    "泳装提示词 1/Big bellies, exaggerated breasts, exaggerated hips, headless, (head down, overexposed, from the waist down, reflection of water waves, shadow of leaves, reflection of water waves, shadow of leaves,.md",
+    "同步设置/Obsidian Git同步设置.md",
+    "同步设置/Big bllies, exaggerated breasts, exaggerated hips, headless, (head down, overexposed, from the waist down, reflection of water waves, shadow of leaves, reflection of water waves, shadow of leaves,.md"
+  ]
+}
